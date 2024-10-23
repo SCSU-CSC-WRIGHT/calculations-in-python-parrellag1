@@ -7,4 +7,4 @@ c = int(string2)
 
 tempa = c*(9/5)+32
 
-print(f"The tempature in celsius is: {tempa}")
+print(f"The temperature in Fahrenheit is: {tempa}")
